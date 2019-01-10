@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HackerRankPractice-ChallengeQuestions.iml" filepath="$PROJECT_DIR$/.idea/HackerRankPractice-ChallengeQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmnup 01 Sock Merchant/Warmnup 01 Sock Merchant.iml" filepath="$PROJECT_DIR$/Warmnup 01 Sock Merchant/Warmnup 01 Sock Merchant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warmup 02 Counting Valleys/Warmup 02 Counting Valleys.iml" filepath="$PROJECT_DIR$/Warmup 02 Counting Valleys/Warmup 02 Counting Valleys.iml" />
+    </modules>
+  </component>
+</project>
